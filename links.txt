@@ -1,0 +1,10 @@
+http://www.cube20.org/
+https://www.cube20.org/qtm/
+https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf
+https://ams.com/tcs34725#tab/documents
+https://thecavepearlproject.org/2017/11/03/configuring-i2c-sensors-with-arduino/
+https://www.ev3dev.org/docs/kernel-hackers-notebook/
+https://www.kernel.org/doc/Documentation/i2c/
+http://www.electronicprojects.net/articles/a-look-at-the-tcs34725-color-sensor-with-various-examples.php
+https://learn.adafruit.com/adafruit-color-sensors/downloads
+https://en.wikipedia.org/wiki/I%C2%B2C
