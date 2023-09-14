@@ -8,3 +8,7 @@ https://www.kernel.org/doc/Documentation/i2c/
 http://www.electronicprojects.net/articles/a-look-at-the-tcs34725-color-sensor-with-various-examples.php
 https://learn.adafruit.com/adafruit-color-sensors/downloads
 https://en.wikipedia.org/wiki/I%C2%B2C
+
+SETUP REPO: (why is this here? i was lazy.)
+https://dev.to/bowmanjd/create-and-initialize-a-new-github-repository-from-the-command-line-85e
+
