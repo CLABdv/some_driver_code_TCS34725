@@ -1,14 +1,26 @@
-http://www.cube20.org/
-https://www.cube20.org/qtm/
 https://cdn-shop.adafruit.com/datasheets/TCS34725.pdf
 https://ams.com/tcs34725#tab/documents
-https://thecavepearlproject.org/2017/11/03/configuring-i2c-sensors-with-arduino/
-https://www.ev3dev.org/docs/kernel-hackers-notebook/
-https://www.kernel.org/doc/Documentation/i2c/
+
+http://www.cube20.org/
+https://www.cube20.org/qtm/
+
+https://stackoverflow.com/questions/9974592/i2c-slave-ioctl-purpose
+https://www.linkedin.com/pulse/interfacing-i2c-devices-from-user-space-linux-yamil-garcia
 http://www.electronicprojects.net/articles/a-look-at-the-tcs34725-color-sensor-with-various-examples.php
+https://thecavepearlproject.org/2017/11/03/configuring-i2c-sensors-with-arduino/
 https://learn.adafruit.com/adafruit-color-sensors/downloads
 https://en.wikipedia.org/wiki/I%C2%B2C
+https://www.ev3dev.org/docs/kernel-hackers-notebook/
 
-SETUP REPO: (why is this here? i was lazy.)
+https://i2c.info/i2c-bus-specification
+https://www.nxp.com/docs/en/user-guide/UM10204.pdf
+
+https://www.kernel.org/doc/Documentation/i2c/
+https://www.kernel.org/doc/html/latest/i2c/i2c-sysfs.html
+https://www.kernel.org/doc/html/latest/i2c/i2c-protocol.html 
+https://www.kernel.org/doc/html/latest/i2c/writing-clients.html
+https://www.kernel.org/doc/html/v5.4/i2c/dev-interface.html
+
+
+How to setup repo from cmd:
 https://dev.to/bowmanjd/create-and-initialize-a-new-github-repository-from-the-command-line-85e
-
